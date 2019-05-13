@@ -7,7 +7,7 @@ import pygame
 from pygame.locals import *
 
 
-# Base constants
+# Constants
 
 fps = 60                # frequency rate
 Animation_speed = 0.2   # horizontal flying speed
