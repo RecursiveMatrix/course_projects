@@ -8,7 +8,7 @@ pipe, the user will gain one point for that. The total points will be recorded a
 evaluation of the game playing.
 # Table of contents
  - the bird class
- ![alt text](https://github.com/LeosonLi/course_projects/tree/master/presentation_images/bird.jpg)
+![ScreenShot](bird.jpg) 
  - the pipe class
  - the main function and some assistant functions
  
