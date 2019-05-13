@@ -10,5 +10,6 @@ evaluation of the game playing.
  - the bird class
  ![image](https://github.com/RecursiveMatrix/course_projects/blob/master/python%20game%20project/screenshots/bird.jpg)
  - the pipe class
+  ![image](https://github.com/RecursiveMatrix/course_projects/blob/master/python%20game%20project/screenshots/pipe.jpg)
  - the main function and some assistant functions
  
